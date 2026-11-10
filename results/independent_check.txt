@@ -1,0 +1,5 @@
+Plant state-space/transfer-function max relative residual: 7.44e-14
+Independent lead-loop margins: PM 105.036662 deg, GM 6.986734 dB
+Exported Bode magnitude max residual: 1.39e-10 dB
+All four reconstructed output traces: max residual 8.36e-11 deg
+Verified 0-10 s time axes, error columns and exact command hold interval.

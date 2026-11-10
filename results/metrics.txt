@@ -1,0 +1,35 @@
+Plant poles [1/s]
+-5.2343750000 +55.6981940314i
+-5.2343750000 -55.6981940314i
+0.0000000000 +0.0000000000i
+Closed-loop poles [1/s]
+-2.8388625864 +55.7990454915i
+-2.8388625864 -55.7990454915i
+-11.0518651954 +0.0000000000i
+-1.7391596317 +0.0000000000i
+wgc_rad_s 2.758605145
+wpc_rad_s 56.31291292
+pm_deg 105.0366617
+gm_dB 6.986734165
+bandwidth_rad_s 2.111762511
+Kv_per_s 2.396405392
+step_rise_s 1.043
+step_settle_s 2.018
+step_overshoot_percent 0
+step_final_error_deg 1.881265652e-07
+noise_output_rms_delta_deg 0.00695913215
+loss_peak_delta_during_deg 0.9633922853
+loss_peak_delta_after_deg 0.987593494
+loss_recovery_s 0.946
+angle_min_deg 14.63458001
+angle_max_deg 29.99999981
+ode45_delta_rad 7.552292125e-13
+half_grid_delta_rad 2.331468352e-14
+noise_sample_std_deg 0.01973809318
+hold_last_deg 24.16172806
+
+case,rms_error_deg,peak_error_deg,peak_voltage_V,peak_current_A
+step,1.314223689,10,837.758041,127.3589753
+smooth,2.538368502,4.878736856,256.3274032,12.17451826
+noise,2.539072026,4.89148247,255.7016891,11.37067186
+hold,2.574097758,4.892152254,255.7275265,20.81342936
